@@ -11,6 +11,7 @@
         android:theme="@style/Theme.CIS3515_Assigment_3">
         <activity
             android:name=".DisplayActivity"
+            android:label="Dogs Displayer"
             android:exported="true" />
         <activity
             android:name="edu.temple.cis3515_assigment_4.SelectionActivity"
