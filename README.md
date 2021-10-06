@@ -1,7 +1,4 @@
-1. The startup page
-<img width="407" alt="Screen Shot 2021-09-29 at 2 24 25 PM" src="https://user-images.githubusercontent.com/60366443/135327090-26c47c04-43b3-4b68-8a6d-66027e9a3d95.png">
-2.The recycler view
-<img width="406" alt="Screen Shot 2021-09-29 at 2 17 19 PM" src="https://user-images.githubusercontent.com/60366443/135327164-7aaa7e39-43b1-4f2b-981b-6fe6c20b6986.png">
-
-3. when click images
-<img width="427" alt="Screen Shot 2021-09-29 at 2 18 05 PM" src="https://user-images.githubusercontent.com/60366443/135326566-8f2d56a6-7787-4f2a-9238-c97bc202e41a.png">
+1. The startup recycler view, label is "dogs gallery'<img width="439" alt="Screen Shot 2021-10-06 at 12 54 56 PM" src="https://user-images.githubusercontent.com/60366443/136249527-acb06e76-3b88-4be2-adf8-d26e2acb6e0d.png">
+2. when click one of these dog images, it will pop out second activity, which is labeled as "dogs displayer"<img width="406" alt="Screen Shot 2021-10-06 at 12 55 06 PM" src="https://user-images.githubusercontent.com/60366443/136249783-db024129-6406-4cd9-b237-910d477cd877.png">
+3.The changed Icon<img width="432" alt="Screen Shot 2021-10-06 at 12 55 18 PM" src="https://user-images.githubusercontent.com/60366443/136250005-2d91143e-10bc-4869-98c5-f767720c13fb.png">
+4. Generate APK<img width="731" alt="Screen Shot 2021-10-06 at 1 00 20 PM" src="https://user-images.githubusercontent.com/60366443/136250108-32ed2ea8-97e8-4844-ad3d-88c7e8d59f57.png">
