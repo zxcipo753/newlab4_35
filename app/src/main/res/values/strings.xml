@@ -1,8 +1,7 @@
 <resources>
     <string name="app_name">Dogs collection</string>
-    <string name="MangaView">Image Manga</string>
-    <string name="selection_name">Selection</string>
-    <string name="detail_name">Detail</string>
+    <string name="appname">Dogs Gallery</string>
+    <string name="selection_name">Dogs Displayer</string>
     <string name="instructions">Click an image below to view</string>
     <string-array name="dog_names">
         <item>chihuahua</item>

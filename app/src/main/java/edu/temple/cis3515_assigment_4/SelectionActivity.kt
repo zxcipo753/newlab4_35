@@ -49,7 +49,6 @@ class SelectionActivity : AppCompatActivity() {
             ImageObject(dognames[7],R.drawable.corgi),
             ImageObject(dognames[8],R.drawable.bernesemountain),
             ImageObject(dognames[9],R.drawable.bodercollie))
-
     }
 
 }

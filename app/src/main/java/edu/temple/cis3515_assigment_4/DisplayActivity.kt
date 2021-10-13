@@ -12,6 +12,7 @@ class DisplayActivity : AppCompatActivity() {
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        this.title = resources.getString(R.string.selection_name)
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_display)
 

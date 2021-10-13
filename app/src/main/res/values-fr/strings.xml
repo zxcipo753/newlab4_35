@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">collection de chiens</string>
-    <string name="MangaView">Image Manga</string>
-    <string name="selection_name">Sélection</string>
-    <string name="detail_name">Détail</string>
+    <string name="appname">Galerie de chiens</string>
+    <string name="selection_name">Présentoir de chiens</string>
     <string name="instructions">Cliquez sur une image ci-dessous pour voir</string>
     <string-array name="dog_names">
         <item>chihuahua</item>
