@@ -16,6 +16,7 @@ class ImageAdapter(private val arrayImageObject: Array<ImageObject>): RecyclerVi
     fun setOnItemClickListener(listener: onItemClickListener){
         myListner = listener
     }
+    //try
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ImageAdapter.ViewHolder {
         val context = parent.context
