@@ -38,16 +38,17 @@ class SelectionActivity : AppCompatActivity() {
     }
 
     private fun getData(): Array<ImageObject> {
-        return arrayOf(ImageObject("chihuahua", R.drawable.chihuahua),
-            ImageObject("dashshund",R.drawable.dashshund),
-            ImageObject("doberman", R.drawable.doberman),
-            ImageObject("goldenretriever",R.drawable.goldenretriever),
-            ImageObject("bulldog",R.drawable.bulldog),
-            ImageObject("pomeranian",R.drawable.pomeranian),
-            ImageObject("havanese",R.drawable.havanese),
-            ImageObject("corgi",R.drawable.corgi),
-            ImageObject("bernesemountain",R.drawable.bernesemountain),
-            ImageObject("bodercollie",R.drawable.bodercollie))
+        val dognames = resources.getStringArray(R.array.dog_names)
+        return arrayOf(ImageObject(dognames[0], R.drawable.chihuahua),
+            ImageObject(dognames[1],R.drawable.dashshund),
+            ImageObject(dognames[2], R.drawable.doberman),
+            ImageObject(dognames[3],R.drawable.goldenretriever),
+            ImageObject(dognames[4],R.drawable.bulldog),
+            ImageObject(dognames[5],R.drawable.pomeranian),
+            ImageObject(dognames[6],R.drawable.havanese),
+            ImageObject(dognames[7],R.drawable.corgi),
+            ImageObject(dognames[8],R.drawable.bernesemountain),
+            ImageObject(dognames[9],R.drawable.bodercollie))
 
     }
 
