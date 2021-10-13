@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Dogs collection</string>
+    <string name="MangaView">Image Manga</string>
+    <string name="selection_name">Selection</string>
+    <string name="detail_name">Detail</string>
+    <string name="instructions">Click an image below to view</string>
+    <string-array name="dog_names">
+        <item>chihuahua</item>
+        <item>dashshund</item>
+        <item>doberman</item>
+        <item>golden retriever</item>
+        <item>bulldog</item>>
+        <item>pomeranian</item>
+        <item>havnese</item>
+        <item>corgi</item>
+        <item>bernese mountain</item>
+        <item>bodercollie</item>
+    </string-array>
 </resources>

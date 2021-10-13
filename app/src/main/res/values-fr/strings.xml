@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">collection de chiens</string>
+    <string name="MangaView">Image Manga</string>
+    <string name="selection_name">Sélection</string>
+    <string name="detail_name">Détail</string>
+    <string name="instructions">Cliquez sur une image ci-dessous pour voir</string>
+    <string-array name="dog_names">
+        <item>chihuahua</item>
+        <item>teckel</item>
+        <item>doberman</item>
+        <item>golden retriever</item>
+        <item>bouledogue</item>>
+        <item>poméranien</item>
+        <item>bichon havanais</item>
+        <item>corgi</item>
+        <item>montagne bernoise</item>
+        <item>bodercollie</item>
+    </string-array>
+</resources>
